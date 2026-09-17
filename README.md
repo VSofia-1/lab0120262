@@ -2,6 +2,10 @@
 
 Aplicación web para administrar clientes bancarios y registrar transferencias entre cuentas. El proyecto expone una API REST con Spring Boot, persiste la información en MySQL y proporciona una interfaz web estática para gestionar clientes, realizar transferencias y consultar el historial de transacciones.
 
+## Link del informe
+
+https://drive.google.com/file/d/1Fpj0zsrlNXIa3QxApOIkN2pFj8ijvNJ9/view?usp=sharing
+
 ## Stack
 
 - **Lenguaje:** Java 17
@@ -265,7 +269,3 @@ spring.jpa.properties.hibernate.format_sql=true
 ## Licencia
 
 Este proyecto no especifica una licencia.
-
-## Link del informe
-
-https://drive.google.com/file/d/1Fpj0zsrlNXIa3QxApOIkN2pFj8ijvNJ9/view?usp=sharing
